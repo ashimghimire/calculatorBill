@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/calculator/static/css/main.4ab50c5b.chunk.css",
+    "main.js": "/calculator/static/js/main.3b2df317.chunk.js",
+    "main.js.map": "/calculator/static/js/main.3b2df317.chunk.js.map",
+    "runtime-main.js": "/calculator/static/js/runtime-main.698ef56f.js",
+    "runtime-main.js.map": "/calculator/static/js/runtime-main.698ef56f.js.map",
+    "static/css/2.983f79de.chunk.css": "/calculator/static/css/2.983f79de.chunk.css",
+    "static/js/2.25a8e08a.chunk.js": "/calculator/static/js/2.25a8e08a.chunk.js",
+    "static/js/2.25a8e08a.chunk.js.map": "/calculator/static/js/2.25a8e08a.chunk.js.map",
+    "static/js/3.8c7d5dea.chunk.js": "/calculator/static/js/3.8c7d5dea.chunk.js",
+    "static/js/3.8c7d5dea.chunk.js.map": "/calculator/static/js/3.8c7d5dea.chunk.js.map",
+    "images/65bfd20465dd1d2cb58c0b53e1160442-icon-person.svg": "/calculator/images/65bfd20465dd1d2cb58c0b53e1160442-icon-person.svg",
+    "images/9f9be3534a9295a6595764d63a7bf3a3-icon-dollar.svg": "/calculator/images/9f9be3534a9295a6595764d63a7bf3a3-icon-dollar.svg",
+    "index.html": "/calculator/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/calculator/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.4ab50c5b.chunk.css.map": "/calculator/static/css/main.4ab50c5b.chunk.css.map",
+    "static/js/2.25a8e08a.chunk.js.LICENSE.txt": "/calculator/static/js/2.25a8e08a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.698ef56f.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.25a8e08a.chunk.js",
+    "static/css/main.4ab50c5b.chunk.css",
+    "static/js/main.3b2df317.chunk.js"
+  ]
+}
